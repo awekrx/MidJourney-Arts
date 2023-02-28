@@ -256,7 +256,6 @@
     src="https://media.discordapp.net/attachments/1080229157956505681/1080229829170958427/addsad_Photorealistic_full-body_depiction_of_a_knight_with_drag_479ede05-c783-43a7-931d-811dda61c843.png?width=1007&height=671"
     width="512"
     >
-    ?????
     <image
     src="https://media.discordapp.net/attachments/1080229157956505681/1080229830030790736/addsad_Photorealistic_full-body_depiction_of_a_knight_with_drag_bbb682d7-2e76-47ca-a28c-2484fc50ea2f.png?width=1007&height=671"
     width="512"
