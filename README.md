@@ -1,4 +1,5 @@
 # Contents
+
 - [Contents](#contents)
 - [V4](#v4)
   - [Humans](#humans)
@@ -14,6 +15,7 @@
 - [Testp](#testp)
 
 # V4
+
 ## Humans
 
 > prompt: `Elven assassin with a masked face and intricate runes. Highly detailed photorealism showcases the intricate details of the mask and runic markings. Focused on the assassin's face, with a blurred background. The lighting is a blend of candlelight and twilight, adding a sense of mystery to the character. The style is a mix of ancient and fantasy. Resolution: --ar 16:9 --s 1000 --q 2 --upbeta --v 4`
@@ -194,6 +196,38 @@
     >
 </p>
 
+> prompt: `Armor::5, Classic style::5, Precious stones::5, octane render::4, --no background-details, --no background, white::10, , high quality photo::5, soft light::2, sharp-focus::3, hyper realism::4 --v 4 --s 1000 --q 5 --ar 2:3`
+<p align="center">
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080438831670636575/Armor_874e1691-1023-4e83-9a64-a232f3d10a8e.png?width=447&height=671"
+    width="512"
+    >
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080438830965985310/Armor_7c03c4b6-a878-4014-8287-279ce44f2497.png?width=447&height=671"
+    width="512"
+    >
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080441144514728017/Armor_de3dc08c-3c28-4b68-83ae-bee07510d585.png?width=447&height=671"
+    width="512"
+    >
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080438831309922314/Armor_25809279-4dd8-446b-8281-91591714a2ca.png?width=447&height=671"
+    width="512"
+    >
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080441144942534788/Armor_23b7506f-58b7-4838-9e17-180f47f54521.png?width=447&height=671"
+    width="512"
+    >
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080441145567490100/Armor_f03d9fc4-9694-4e32-940f-96f8e6abc7b6.png?width=447&height=671"
+    width="512"
+    >
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080441145995317278/Armor_20b5acce-dae6-4dbc-a584-7b0869a949bd.png?width=447&height=671"
+    width="512"
+    >
+</p>
+
 > prompt: `A knight with dragon armor depicted in photorealism. The knight is fully equipped with dragon-inspired armor, and every detail is meticulously crafted, from the scales on the armor to the intricate design of the helmet. The artwork is a perfect blend of fantasy and reality, giving the knight an imposing presence. Focused:3, Blurred background:2, Full-body:5. Lighting: Sunshine. Style: Hyperrealistic. Octane Render::5 Unreal Engine::3 Ray Tracing Ambient Occlusion::5 V-RAY::5 Character design::5 high quality photo::5 soft light::3 sharp-focus::3 --v 4 --s 1000 --q 5 --ar 1:2`
 <p align="center">
     <image
@@ -328,7 +362,6 @@
     >
 </p>
 
-
 > prompt: `A cute goblin collects flowers in a remote field with trees on either side. There is a lot of open space in the image. landscape::5, many details::5, a lot of detail::5. anime style::5 --v 4 --s 1000 --q 5 --ar 2:3`
 <p align="center">
     <image
@@ -402,7 +435,6 @@
     width="512"
     >
 </p>
-
 
 ## Landscapes
 
@@ -631,6 +663,14 @@
     >
 </p>
 
+> prompt: `Upscaling image #4 with Gold::5, Crystal::5, Reflection::4, octane render::3 unreale engine::3, v-ray::3, particle design::4, particles::3, smoke::1, neon::1, flash::1, spark::1, grey::10, , high quality photo::5, soft light::2, sharp-focus::3, hyper realism::4 --v 4 --s 1000 --q 5 --ar 1:2`
+<p align="center">
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080439640818982912/Gold_1f35dd75-0e2d-486a-ab17-c164203d1035.png?width=336&height=671"
+    width="512"
+    >
+</p>
+
 ## Abstract
 
 > prompt: `Abstract space::5, meteorites::4, stars::5, vibrant colors::3, cosmic dust::2. Style: Abstract::5. Lighting: Dark Light::4. Light-design::5 Ray-Tracing::4 Shaders::3 high quality photo::5 soft light::3 sharp-focus::3 --v 4 --s 1000 --q 5 --ar 16:9`
@@ -754,8 +794,6 @@
     >
 </p>
 
-
-
 ## Space
 
 > prompt: `The Milky Way::5, glowing::4 stars::5, black space::5. space::10, star clusters::10, ray tracing::4, v-ray::4, light-design::4, shaders::3, orange::10, pink::10, , high quality photo::5, soft light::2, sharp-focus::3, hyper realism::4 --v 4 --s 1000 --q 5 --ar 2:1`
@@ -842,13 +880,20 @@
     >
 </p>
 
-
 # Niji
 
 > prompt: `Snowy landscape::5, people::4, colorful clothing::3, traditional architecture::4, snowman::2, trees::3, lanterns::3, joyful atmosphere::5., --niji --q 2`
 <p align="center">
     <image
     src="https://media.discordapp.net/attachments/1080229157956505681/1080230555104317470/ya_gay_Snowy_landscape_b85680eb-fa7f-4b03-b698-54162551d154.png"
+    width="512"
+    >
+</p>
+
+> prompt: `Stray dog::3, samurai::5, katana::5, dirt road::3, countryside::3, --niji --q 2`
+<p align="center">
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080441189821599754/Stray_dog_16150b5a-bc0a-46c9-b4de-45fb3275478d.png?width=671&height=671"
     width="512"
     >
 </p>
@@ -870,4 +915,3 @@
     width="512"
     >
 </p>
-
