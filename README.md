@@ -1,6 +1,7 @@
 # Contents
 
 - [Contents](#contents)
+- [Disclaimer](#disclaimer)
 - [V4](#v4)
   - [Humans](#humans)
   - [Armors](#armors)
@@ -13,6 +14,10 @@
   - [Other](#other)
 - [Niji](#niji)
 - [Testp](#testp)
+
+# Disclaimer
+
+All prompts were created using [my prompt generator](https://github.com/awekrx/ChatGPT-MidJourney-prompt).
 
 # V4
 
@@ -382,6 +387,18 @@
     >
     <image
     src="https://media.discordapp.net/attachments/1080229157956505681/1080229580616507404/A_majestic_mechanical_statue_of_a_tiger_crafted_with_int_60c88f29-975b-43a9-8e00-5c1815572424.png?width=336&height=671"
+    width="512"
+    >
+</p>
+
+> prompt: `Phoenix::5, Dragon::5, Sky::5, , , red::10, , anime style::5 --v 4 --s 1000 --q 5 --ar 16:9`
+<p align="center">
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080927607165567128/Phoenix_1411678d-9d3d-47b3-a777-28532a897928.png?width=1174&height=671"
+    width="512"
+    >
+    <image
+    src="https://media.discordapp.net/attachments/1080229157956505681/1080927607761145897/Phoenix_da6efc66-3221-4c93-89e5-0b3482a4d18c.png?width=1174&height=671"
     width="512"
     >
 </p>
